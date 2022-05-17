@@ -1,0 +1,80 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+.header-section{float: left;width: 100%;background-color: #290000;}
+.border-wrap{margin: 0 auto; width: 100%;height: 5px;background-color: #76c38f;}
+.common-wrap{margin: 0 auto;max-width: 960px; clear: both;}
+.logo-wrap{float: left;width: 183px;margin-top: 36px;}
+.logo-wrap figure img{float: left;width: 183px;}
+.nav-bar{float: right;width: 634px;background-color: #290000;margin-top: 43px;}
+.button-bar{float: left;width: 78px;height: 35px;background-color: #76c38f;border-radius: 10px;border: none;margin-top:-7px;}
+.a-wrap{text-align: center;display: block;font-size: 13px;color: #fff;text-decoration: none;}
+.ul-bar{list-style: none;}
+.li-bar{float: left;margin-left: 33px;border: none;}
+.list-bar{text-align: left;text-decoration: none;font-size: 13px;color: #ffffff;}
+.hiro-section{float: left;width: 100%;background-color: #290000;}
+.left-wrap{float: left;width: 15px;height: 28px;margin-top: 240px;}
+.left-wrap img{float: left;width: 100%;}
+.txt-wrap{float: left;margin-left: 42px; width: 365px;margin-top: 68px;}
+.txt-wrap h2{text-align: left;font-size: 46px;color: #ffffff;padding-top: 30px;}
+.txt-wrap p{text-align: left;font-size: 12px;color: #979797;padding-top: 20px;}
+.read-button{float: left;margin-top: 20px; width: 142px;height: 35px;background-color: #76c38f;border-radius: 10px;border: none;margin-bottom: 142px;}
+.read-button a{text-align: center;font-size: 13px;color: #ffffff;text-decoration: none;}
+.circle-wrap{float: left;margin-left: 45px; margin-top: 34px; width: 432px;height: 432px;background-color: #6b6b6b;border-radius: 100%;margin-bottom: 34px;}
+.mini-circle-wrap{margin: 0 auto;margin-top: 27px; width: 380px;height: 380px;background-color: #333333;border-radius: 100%;}
+.mini-circle-wrap span{text-align: center;display: block;line-height: 380px;font-size: 26px;color: #ffffff;}
+.right-wrap{float: right;width: 15px;height: 28px;margin-top: 240px;}
+.right-wrap img{float: left;width: 100%;}
+.service-section{float: left;width: 100%;background-color: #660000;}
+.info-wrap{float: left;width: 100%;margin-top: 60px;}
+.title-wrap{float: left;margin-left: 15px; width: 225px;background-color: #ffffff;}
+.mini-wrap{margin: 0 auto;margin-top: 21px; width: 120px;height: 120px;background-color: #333333;}
+.mini-wrap span{text-align: center;display: block;line-height: 120px;font-size: 18px;color: #ffffff;}
+.title-wrap h3{text-align: center;font-size: 32px;color: #333333;}
+.title-wrap p{text-align: center;font-size:12px;color: #979797;padding: 0 35px;}
+.txt-title-wrap{float: left;margin-left: 15px; width: 225px;}
+.txt-mini-wrap{margin: 0 auto;margin-top: 21px; width: 120px;height: 120px;background-color: #ffffff;}
+.txt-mini-wrap span{text-align: center;display: block;line-height: 120px;font-size: 18px;color: #333333;}
+.txt-title-wrap h3{text-align: center;font-size: 32px;color: #ffffff;}
+.txt-title-wrap p{text-align: center;font-size:12px;color: #ffffff;padding: 0 35px;}
+.txt-title-wrap:hover{background-color: #76c38f;}
+.latest-wrap{float: left;width: 100%;height: 48px; margin-top: 40px;}
+.blue-wrap{float: left;width: 352px;height: 3px;background-color: #303030;margin-top: 23px;}
+.work-wrap{float: left;width: 256px;height: 48px; background-color: #303030;border-radius: 10px;}
+.work-wrap span{text-align: center;display: block;line-height:48px;font-size: 32px;color: #ffffff;}
+.dolor-wrap{float: left;width: 100%;margin-top: 30px;}
+.lorem-wrap{float: left;margin-left: 10px; width: 300px;height: 200px; background-color: #353535;border: 5px solid #ffffff;}
+.lorem-wrap h4{text-align: center;padding-top: 29px; font-size: 18px;color: #ffffff;}
+.black-bar{float: left;margin-top: 111px; width: 289px;height: 30px; background-color: #151515;}
+.black-bar span{text-align: center;display: block;line-height:30px;font-size: 14px;color: #ffffff;}
+.txt-lorem-wrap{float: left;margin-left: 10px; width: 300px;height: 200px; background-color: #353535;border: 5px solid #76c38f;margin-bottom: 50px;}
+.txt-lorem-wrap span{text-align: center;display: block;line-height:200px;font-size: 18px;color: #ffffff;}
+.txt-lorem-wrap:hover{background-color: #76c38f;}
+.text-section{float: left;width: 100%;background-color: #303030;}
+.blog-wrap{float: left;width: 225px;}
+.blog-wrap h3{text-align: left;font-size: 16px;color: #ffffff;padding-top: 42px;}
+.blog-wrap h4{text-align: left;font-size: 13px;color: #76c38f;padding-top: 20px;}
+.blog-wrap h5{text-align: left;font-size: 13px;color: #666666;padding-top: 10px;}
+.blog-wrap h5 span{color: #76c38f;}
+.blog-wrap p{text-align: left;font-size: 13px;color: #979797;padding-top: 10px;}
+.blog-wrap a{text-align: left;display: block;font-size: 13px;color: #76c38f;padding-bottom: 20px;text-decoration: none;padding-top: 10px;}
+.link-wrap{float: left;width: 225px;margin-left: 20px;}
+.link-wrap h2{text-align: left;font-size: 16px;color: #ffffff;padding-top: 42px;}
+.icon-wrap{float: left;width: 5px;height: 5px;}
+.icon-wrap img{width: 100%;}
+.link-wrap a{text-align: left;padding-left: 10px;display: block;  font-size:  13px;color: #76c38f;text-decoration: none; padding-top: 10px;border-bottom: 2px #404040 solid;}
+.tweets-wrap{float: left;width: 225px;margin-left: 20px;}
+.tweets-wrap h2{text-align: left;font-size: 16px;color: #ffffff;padding-top: 42px;}
+.tweets-wrap p{text-align: left;padding-top: 12px; font-size: 13px;color: #979797;}
+.tweets-wrap span{color: #76c38f;}
+.contact-wrap{float: left;width: 225px;margin-left: 20px;}
+.contact-wrap h2{text-align: left;font-size: 16px;color: #ffffff;padding-top: 42px;}
+.name-wrap{  float: left;width: 225px;}
+.name{float: left;width: 100%;height: 36px;background-color: #222222;border: none;outline: none;border-radius: 10px;margin-top: 2px;padding-left: 10px;}
+.massage{float: left;width: 225px;height: 80px;background-color: #222222;border: none;outline: none;border-radius: 10px;margin-top: 2px;color: #989898;padding: 10px 0px; }
+.submit-button{float: left;width: 75px;height: 35px;background-color: #76c38f;border-radius: 12px;border: none;margin-top: 5px;margin-bottom: 20px;}
+.submit-button a{text-align: center;display: block;line-height: 35px;font-size: 12px;color: #303030;text-decoration: none;}
+.black-border-wrap{float: left;width: 100%;border-bottom: 2px #000000 solid;}
+.footer-section{float: left;width: 100%;background-color: #2b2b2b;}
+.copy-wrap{float: left;width: 360px;margin-top: 24px;margin-bottom: 24px;}
+.copy-wrap span{text-align: center;display: block;font-size: 13px;color: #979797;}
+.tamplate-wrap{float: right;width: 175px;margin-top: 24px;margin-bottom: 24px;}
+.tamplate-wrap span{text-align: center;display: block;font-size: 13px;color: #979797;}
